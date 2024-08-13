@@ -1,0 +1,119 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #101010;
+    padding: 24px;
+}
+
+.header-image {
+    width: 100%;
+
+    object-fit: cover;
+
+    display: block;
+}
+
+.headline {
+    color: white;
+}
+
+.image-container {
+    background-color: #101010;
+    padding: 16px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 16px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.liam_ilaya_roth {
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    padding: 130px;
+    margin: 0px auto;
+}
+
+p {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 180px;
+    padding-right: 180px;
+    font-size: 50px;
+}
+
+.p2 {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 90px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+footer {
+    font-size: small;
+    color: white;
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+}
+
+.rick_rolled {
+    font-size: small;
+    color: white;
+}
+
+.classhomepage {
+    font-size: small;
+    color: white;
+    position: fixed;
+    left: 20px;
+    bottom: 10px;
+}
+
+ul li {
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 25px;
+}
+
+ul {
+    margin-left: 175px;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    position:absolute;
+    top: 5px;
+}
+
+.rick_rolled:hover {
+    font-size:medium;
+    color: white;
+}
+
+.classhomepage:hover {
+    font-size:medium;
+    color: white;
+}
